@@ -68,8 +68,8 @@ public class CariGambarActivity extends AppCompatActivity {
 
         @Override
         protected void onPostExecute(Bitmap result) {
-            ImageView.setImageBitmap(result);// Set bitmap ke ImageView
-            progress.dismiss();// Tutup progress dialog
+            ImageView.setImageBitmap(result);// set bitmap ke ImageView
+            progress.dismiss();// tutup dialog
         }
     }
 }
