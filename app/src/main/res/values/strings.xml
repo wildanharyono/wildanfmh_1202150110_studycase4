@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">wildanfmh_1202150110_studycase4</string>
+    <string-array name="mahasiswa">//array data mahasiswa
+        <item>Wildan</item>
+        <item>Faudzan</item>
+        <item>Maulana</item>
+        <item>Haryono</item>
+        <item>Aji</item>
+        <item>Rahmat</item>
+        <item>Muhajir</item>
+        <item>Noval</item>
+        <item>Cahyo</item>
+    </string-array>
+</resources>
